@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Stats
+## 
 <p>
 <a href="https://github.com/wuyanxin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wuyanxin&show_icons=true&theme=radical" />
